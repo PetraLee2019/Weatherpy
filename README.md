@@ -1,14 +1,13 @@
 # Weatherpy
-
 ## Background 
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using the CityPy Python Library, and the OpenWeatherMap API.
 
 ## Objectives
-Convert Raw Data to DataFrame
+#### Convert Raw Data to DataFrame
+
 ![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Merged-Dataframe_Dataset.png?raw=true)
 
-Build a series of Scatter Plots to showcase the following relationships:
-
+#### Build a series of Scatter Plots to showcase the following relationships:
 #### Temperature (F) vs. Latitude
 ![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Max_Temp.png?raw=true)
 #### Humidity (%) vs. Latitude
