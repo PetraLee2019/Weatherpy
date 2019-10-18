@@ -5,18 +5,18 @@ Python script to visualize the weather of 500+ cities across the world of varyin
 
 ## Objectives
 Convert Raw Data to DataFrame
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Merged-Dataframe_Dataset.png?raw=true)
 
 Build a series of Scatter Plots to showcase the following relationships:
 
 #### Temperature (F) vs. Latitude
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Max_Temp.png?raw=true)
 #### Humidity (%) vs. Latitude
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Humidity.png?raw=true)
 #### Cloudiness (%) vs. Latitude
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Cloudiness.png?raw=true)
 #### Wind Speed (mph) vs. Latitude
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Wind_Speed.png?raw=true)
 - Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude
 - Perform a weather check on each of the cities using a series of successive API calls
 - Include a print log of each city as it's being processed with the city number and city name
