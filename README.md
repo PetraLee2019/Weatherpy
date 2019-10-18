@@ -1,6 +1,7 @@
-# Weatherpy
+# Python API Requests & JSON Traversals Visualizing the Weather of 500+ World Cities
+![Alt Tag](https://github.com/PetraLee2019/Weatherpy/blob/master/Images/Four%20Seasons.jpg?raw=true)
 ## Background 
-Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using the CityPy Python Library, and the OpenWeatherMap API.
+Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using the ![CityPy Python Library](https://pypi.org/project/citipy/), and the ![OpenWeatherMap API](https://openweathermap.org/api).
 
 ## Objectives
 #### Convert Raw Data to DataFrame
