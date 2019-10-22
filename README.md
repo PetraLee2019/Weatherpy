@@ -29,5 +29,5 @@ Python script to visualize the weather of 500+ cities across the world of varyin
 
 ## Considerations
 - Be aware of the cities that are used in the query pool. Are you getting coverage of the full gamut of latitudes and longitudes? Or are you simply choosing 500 cities concentrated in one region of the world? Simply rattling 500 cities based on your human selection would create a biased dataset. Be thinking of how this should be countered. (Hint: Consider the full range of latitudes).
-- The city data is generated based on random coordinates; as such, the outputs will not be an exact match each time the code is run
-- Where and Which Weather API in particular will you need? What URL endpoints does it expect? What JSON structure does it respond with? Before a line of code is written, you should be aiming to have a crystal clear understanding of your intended outcome
+- The city data is generated based on random coordinates; as such, the outputs will not be an exact match each time the code is run.
+- Where and Which Weather API in particular will you need? What URL endpoints does it expect? What JSON structure does it respond with? Before a line of code is written, you should be aiming to have a crystal clear understanding of your intended outcome.
